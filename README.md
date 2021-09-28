@@ -1,7 +1,7 @@
 # import-pairs
 Batch import utility for Jesse ai
 
-Actually it's a empty Jesse project. You can use it just changing database settings in `config.py`
+Actually it's a empty Jesse project. You can use it by just changing database settings in `config.py`
 
 You can call it with any combination like: 
 ```console
