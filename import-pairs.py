@@ -21,7 +21,7 @@ except:
     print('Can not import pairs!')
     exit()
 
-sloMo = True
+sloMo = False
 debug = True
 
 exchanges = []
